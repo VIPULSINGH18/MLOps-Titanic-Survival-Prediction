@@ -26,13 +26,7 @@ Saves model.pkl only if the new model meets or exceeds the baseline.
 3. Start the FastAPI inference server
 uvicorn app:app --reload
 
-4. Access endpoints
 
-Swagger UI: http://127.0.0.1:8000/docs
-
-Health check: http://127.0.0.1:8000/health
-
-Metrics (Prometheus): http://127.0.0.1:8000/metrics
 
 ⚠️ Assumptions & Limitations
 
