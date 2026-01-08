@@ -1,3 +1,5 @@
+#this code is full ML backend code and converting this into pkl file for using in frontend and Fast-API(api endpoint building)
+
 import pandas as pd
 import seaborn as sns
 import joblib
@@ -49,3 +51,4 @@ model_pipeline.fit(x_train, y_train)
 joblib.dump(model_pipeline, "model.pkl")
 
 print("✅ Model trained and saved as model.pkl")
+
