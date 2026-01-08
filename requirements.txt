@@ -1,0 +1,16 @@
+
+
+
+# Core data & ML
+numpy
+pandas
+seaborn
+scikit-learn
+joblib
+
+# API & Deployment
+fastapi
+uvicorn
+
+# Observability / Metrics
+prometheus-client
