@@ -16,7 +16,6 @@ pip install pandas seaborn scikit-learn joblib fastapi uvicorn prometheus-client
 2. Train and evaluate the model (with logic gate)
 python train_and_evaluate.py
 
-
 This script trains a new model.
 
 Compares its weighted F1-score against the baseline stored in baseline_registry.json.
