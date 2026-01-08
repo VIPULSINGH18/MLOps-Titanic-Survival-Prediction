@@ -1,0 +1,5 @@
+Reflection
+
+Using the coding assistant significantly helped me move faster, especially in structuring the project according to real-world MLOps standards rather than just writing isolated ML scripts. It was particularly useful in translating abstract requirements (like “mandatory logic gate” and “observability”) into concrete, working code that aligns with industry practices. The assistant also helped identify and fix subtle issues such as data leakage and missing deployment considerations, which I might have overlooked initially.
+
+There were no incorrect suggestions, but some solutions were more advanced than required, which pushed me to understand concepts like model governance and metrics exposure more deeply. The assistant was most useful in designing pipeline structure, deployment flow, and interview-ready explanations. It was least useful for very basic tasks (like package installation), which I could do independently. Overall, it accelerated development while also improving code quality and conceptual clarity.
